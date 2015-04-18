@@ -15,7 +15,7 @@ public class App
 /**sub method*/
     public void sample()
     {
-        System.out.println( "saminathan" );
+        System.out.println( "saminathan" )
     }
 
 }
